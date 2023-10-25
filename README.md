@@ -2,7 +2,7 @@
 
 This is the third version of FML.  
 Now as a mod rather than an external exe with no additional useless / broken features.  
-Simply press X in-game and the menu will open.
+Simply press X in-game and the menu will open. If you want to close it, use the close button found under the "Other" tab.
 
 This repo also contains the latest SDK (as of 08/03/2023) for FNaF: Security Breach + the Ruin DLC.
 
